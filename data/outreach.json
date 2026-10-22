@@ -1,0 +1,314 @@
+[
+ {
+  "id": "O01",
+  "category": "Platform",
+  "when": "",
+  "title": "Dra. Data Rabbit",
+  "detail": "Umbrella · creator and science communicator — Research-led storytelling on information design, data visualization and visual culture.",
+  "url": "https://instagram.com/dra.datarabbit"
+ },
+ {
+  "id": "O02",
+  "category": "Platform",
+  "when": "",
+  "title": "The Data Mastermind Journal",
+  "detail": "Editorial production · Substack — Essays connecting information design research, visual communication, and everyday experience.",
+  "url": "https://dradatarabbit.substack.com"
+ },
+ {
+  "id": "O03",
+  "category": "Platform",
+  "when": "",
+  "title": "Schema Lab",
+  "detail": "Methodological production · workshops and tools — Instruments and processes she designs for teaching and research-through-design.",
+  "url": ""
+ },
+ {
+  "id": "O04",
+  "category": "Platform",
+  "when": "",
+  "title": "INDEX — data about us",
+  "detail": "Collective visual experimentation · archive — Dot-voting exercises that turn individual answers into shared representations of ourselves.",
+  "url": ""
+ },
+ {
+  "category": "Radio & exhibitions",
+  "when": "2025",
+  "title": "Radio Guest",
+  "detail": "Exclusión digital en adultos mayores — Explorando la Ciencia, Radio UDEM.",
+  "id": "O05",
+  "url": "https://soundcloud.com/radioudem/2025-04-14-explorando-la-ciencia"
+ },
+ {
+  "category": "Radio & exhibitions",
+  "when": "2025",
+  "title": "Infographic Designer and Exhibitor",
+  "detail": "Caracterización Socio Espacial de Parques y Jardines — Info100CIA, Universidad Autónoma de San Luis Potosí.",
+  "id": "O06",
+  "url": ""
+ },
+ {
+  "category": "Radio & exhibitions",
+  "when": "2024",
+  "title": "Exhibition Organizer and Academic Contributor",
+  "detail": "Programa ENLACE, Esclavitud: Mirada al pasado, presente impreciso — Museo de Arte Contemporáneo de Monterrey (MARCO), with Universidad de Monterrey. Exhibition of projects from the UDEM Information Design course.",
+  "id": "O07",
+  "url": ""
+ },
+ {
+  "category": "Radio & exhibitions",
+  "when": "2021",
+  "title": "Infographic Designer and Exhibitor",
+  "detail": "Propuesta de directrices de diseño para interfaces gráficas de visualización de información médica: caso de estudio Diabetes — Universidad Autónoma Metropolitana.",
+  "id": "O08",
+  "url": ""
+ },
+ {
+  "category": "Articles & columns",
+  "when": "2022",
+  "title": "Aumentar la productividad de los colaboradores con base a espacios diseñados con un enfoque humano",
+  "detail": "Conexión UDLAP",
+  "id": "O09",
+  "url": "https://conexion.udlap.mx/aumentar-la-productividad-de-los-colaboradores-con-base-a-espacios-disenados-con-un-enfoque-humano/"
+ },
+ {
+  "category": "Articles & columns",
+  "when": "2022",
+  "title": "¿Compraste tu logotipo en una página web? Te tengo malas noticias.",
+  "detail": "MarketShare",
+  "id": "O10",
+  "url": ""
+ },
+ {
+  "category": "Articles & columns",
+  "when": "2022",
+  "title": "Los spots instagrameables como una ventaja competitiva en los negocios",
+  "detail": "MarketShare",
+  "id": "O11",
+  "url": ""
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "Saturación visual en retail: el caso Sephora",
+  "detail": "Reel",
+  "id": "O12",
+  "url": "https://www.instagram.com/p/DWU6jf6kTK3/"
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "Dot voting como instrumento para descubrir datos",
+  "detail": "Carousel",
+  "id": "O13",
+  "url": "https://www.instagram.com/p/DWhniOMESsk/?img_index=1"
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "Treemap como sistema para visualizar jerarquías de información",
+  "detail": "Carousel",
+  "id": "O14",
+  "url": "https://www.instagram.com/p/DWXKA1AEUU_/?img_index=1"
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "Divulgación de investigación a través del proyecto “Sofi y los días de color”",
+  "detail": "Carousel",
+  "id": "O15",
+  "url": "https://www.instagram.com/p/DWSUbvIEfrD/?img_index=5"
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "Glosario de Charts — Mapa de burbujas",
+  "detail": "Carousel",
+  "id": "O16",
+  "url": "https://www.instagram.com/p/DXdLfcukdzV/"
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "Graficar el amor: visualización de emociones desde el diseño de información",
+  "detail": "Carousel",
+  "id": "O17",
+  "url": "https://www.instagram.com/p/DUtMzfbkVAO/?img_index=1"
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "Propósitos de año nuevo para diseñadores desde el diseño de información",
+  "detail": "Carousel",
+  "id": "O18",
+  "url": "https://www.instagram.com/p/DS00nMoknFY/?img_index=1"
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "¿Qué es el diseño de información? Introducción desde lecturas clave",
+  "detail": "Carousel",
+  "id": "O19",
+  "url": "https://www.instagram.com/p/DK2gK7YySVz/?img_index=1"
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "¿Qué es el diseño de información?",
+  "detail": "Carousel",
+  "id": "O20",
+  "url": "https://www.instagram.com/p/DKxlqs9SFjc/?img_index=8"
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "Datos en el periodismo deportivo mexicano: hallazgos de investigación",
+  "detail": "Carousel",
+  "id": "O21",
+  "url": "https://www.instagram.com/p/DKu_sEDywkL/?img_index=1"
+ },
+ {
+  "category": "Digital outreach",
+  "when": "2026",
+  "title": "Mapear lo cotidiano: visualizar la vida diaria como datos",
+  "detail": "TikTok",
+  "id": "O22",
+  "url": "https://www.tiktok.com/@dra.datarabbit/video/7558271717227973895"
+ },
+ {
+  "category": "Public talks",
+  "when": "2023",
+  "title": "Guest Speaker",
+  "detail": "Diseño de información en el contexto de documentos médicos — Universidad de Guadalajara.",
+  "id": "O23",
+  "url": ""
+ },
+ {
+  "category": "Public talks",
+  "when": "2018",
+  "title": "Speaker",
+  "detail": "Rostro mata marquita: Potencializa tu marca a través del diseño — Fest Puebla Emprende, Instituto Tecnológico Superior de Acatlán de Osorio.",
+  "id": "O24",
+  "url": ""
+ },
+ {
+  "category": "Public talks",
+  "when": "2017",
+  "title": "Speaker",
+  "detail": "Aumenta el valor de tu marca a través de la identidad corporativa — Fundación ProEmpleo Productivo de Puebla A.C.",
+  "id": "O25",
+  "url": ""
+ },
+ {
+  "category": "Public talks",
+  "when": "2017",
+  "title": "Speaker",
+  "detail": "Los clientes y la calidad del servicio — Punto México Conectado Puebla.",
+  "id": "O26",
+  "url": ""
+ },
+ {
+  "category": "Public talks",
+  "when": "2017",
+  "title": "Speaker",
+  "detail": "Publicidad estratégica para tu negocio — Punto México Conectado Puebla.",
+  "id": "O27",
+  "url": ""
+ },
+ {
+  "category": "Public talks",
+  "when": "2017",
+  "title": "Speaker",
+  "detail": "Start! Workshop Emprendedor — Benemérita Universidad Autónoma de Puebla.",
+  "id": "O28",
+  "url": ""
+ },
+ {
+  "category": "Public talks",
+  "when": "2013",
+  "title": "Participant",
+  "detail": "¿Traes Cambio? Mejor Dales un Cambio — Sistema Municipal DIF Puebla.",
+  "id": "O29",
+  "url": ""
+ },
+ {
+  "category": "Courses attended",
+  "when": "2020",
+  "title": "UX Research at Scale: Surveys, Analytics, Online Testing",
+  "detail": "University of Michigan",
+  "id": "O30",
+  "url": ""
+ },
+ {
+  "category": "Courses attended",
+  "when": "2020",
+  "title": "UX Design: From Concept to Prototype",
+  "detail": "University of Michigan",
+  "id": "O31",
+  "url": ""
+ },
+ {
+  "category": "Courses attended",
+  "when": "2020",
+  "title": "Evaluating Designs with Users",
+  "detail": "University of Michigan",
+  "id": "O32",
+  "url": ""
+ },
+ {
+  "category": "Courses attended",
+  "when": "2020",
+  "title": "Understanding User Needs",
+  "detail": "University of Michigan",
+  "id": "O33",
+  "url": ""
+ },
+ {
+  "category": "Courses attended",
+  "when": "2020",
+  "title": "User Experience Principles and Processes",
+  "detail": "University of Michigan",
+  "id": "O34",
+  "url": ""
+ },
+ {
+  "category": "Courses attended",
+  "when": "2019",
+  "title": "Tools for Ergonomic Evaluation",
+  "detail": "Nottingham University Hospital & Universidad de Guadalajara",
+  "id": "O35",
+  "url": ""
+ },
+ {
+  "category": "Courses attended",
+  "when": "2018",
+  "title": "Diálograma: Infographics and Data Visualization Workshop",
+  "detail": "INFOVIS 2018, International Conference on Visual Communication",
+  "id": "O36",
+  "url": ""
+ },
+ {
+  "category": "Courses attended",
+  "when": "2018",
+  "title": "Researcher Training Workshop",
+  "detail": "Universidad Autónoma Metropolitana Azcapotzalco",
+  "id": "O37",
+  "url": ""
+ },
+ {
+  "category": "Courses attended",
+  "when": "2015",
+  "title": "Marketing",
+  "detail": "University of Pennsylvania",
+  "id": "O38",
+  "url": ""
+ },
+ {
+  "category": "Courses attended",
+  "when": "2015",
+  "title": "Advertising and Society",
+  "detail": "Duke University",
+  "id": "O39",
+  "url": ""
+ }
+]

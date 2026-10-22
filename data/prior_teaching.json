@@ -1,0 +1,134 @@
+[
+ {
+  "institution": "Universidad de las Américas Puebla",
+  "short": "UDLAP",
+  "role": "Part-time Professor · Aug 2018 – Dec 2021",
+  "term": "Summer 2021",
+  "term_order": 2021.5,
+  "course": "Análisis y visualización",
+  "level": "Undergraduate",
+  "program": "Architecture",
+  "id": "PT01"
+ },
+ {
+  "institution": "Universidad de las Américas Puebla",
+  "short": "UDLAP",
+  "role": "Part-time Professor · Aug 2018 – Dec 2021",
+  "term": "Spring 2021",
+  "term_order": 2021.1,
+  "course": "Análisis y visualización",
+  "level": "Undergraduate",
+  "program": "Architecture",
+  "id": "PT02"
+ },
+ {
+  "institution": "Universidad de las Américas Puebla",
+  "short": "UDLAP",
+  "role": "Part-time Professor · Aug 2018 – Dec 2021",
+  "term": "Spring 2021",
+  "term_order": 2021.1,
+  "course": "Infografía y visualización de datos",
+  "level": "Undergraduate",
+  "program": "Visual Information Design",
+  "id": "PT03"
+ },
+ {
+  "institution": "Universidad de las Américas Puebla",
+  "short": "UDLAP",
+  "role": "Part-time Professor · Aug 2018 – Dec 2021",
+  "term": "Spring 2021",
+  "term_order": 2021.1,
+  "course": "Infografía y visualización de datos",
+  "level": "Undergraduate",
+  "program": "Visual Information Design",
+  "id": "PT04"
+ },
+ {
+  "institution": "Universidad de las Américas Puebla",
+  "short": "UDLAP",
+  "role": "Part-time Professor · Aug 2018 – Dec 2021",
+  "term": "Fall 2020",
+  "term_order": 2020.7,
+  "course": "Análisis y visualización",
+  "level": "Undergraduate",
+  "program": "Architecture",
+  "id": "PT05"
+ },
+ {
+  "institution": "Universidad de las Américas Puebla",
+  "short": "UDLAP",
+  "role": "Part-time Professor · Aug 2018 – Dec 2021",
+  "term": "Fall 2020",
+  "term_order": 2020.7,
+  "course": "Infografía y visualización de datos",
+  "level": "Undergraduate",
+  "program": "Visual Information Design",
+  "id": "PT06"
+ },
+ {
+  "institution": "Universidad de las Américas Puebla",
+  "short": "UDLAP",
+  "role": "Part-time Professor · Aug 2018 – Dec 2021",
+  "term": "Spring 2020",
+  "term_order": 2020.1,
+  "course": "Infografía y visualización de datos",
+  "level": "Undergraduate",
+  "program": "Visual Information Design",
+  "id": "PT07"
+ },
+ {
+  "institution": "Universidad de las Américas Puebla",
+  "short": "UDLAP",
+  "role": "Part-time Professor · Aug 2018 – Dec 2021",
+  "term": "Fall 2018",
+  "term_order": 2018.7,
+  "course": "Configuración del mensaje visual",
+  "level": "Undergraduate",
+  "program": "Visual Information Design",
+  "id": "PT08"
+ },
+ {
+  "institution": "Universidad de Guadalajara",
+  "short": "UdeG",
+  "role": "Visiting Professor · from Jan 2018",
+  "term": "Fall 2021",
+  "term_order": 2021.7,
+  "course": "Evaluación del diseño centrado en el usuario",
+  "level": "Graduate",
+  "program": "Master’s in Information Design and Digital Communication",
+  "id": "PT09"
+ },
+ {
+  "institution": "Universidad de Guadalajara",
+  "short": "UdeG",
+  "role": "Visiting Professor · from Jan 2018",
+  "term": "Spring 2021",
+  "term_order": 2021.1,
+  "course": "Sistematización y visualización de datos",
+  "level": "Graduate",
+  "program": "Master’s in Information Design and Digital Communication",
+  "id": "PT10"
+ },
+ {
+  "institution": "Universidad de Guadalajara",
+  "short": "UdeG",
+  "role": "Visiting Professor · from Jan 2018",
+  "term": "Fall 2020",
+  "term_order": 2020.7,
+  "course": "Evaluación del diseño centrado en el usuario",
+  "level": "Graduate",
+  "program": "Master’s in Information Design and Digital Communication",
+  "id": "PT11"
+ },
+ {
+  "institution": "Universidad de Guadalajara",
+  "short": "UdeG",
+  "role": "Visiting Professor · from Jan 2018",
+  "term": "From Jan 2018",
+  "term_order": 2018.0,
+  "course": "Information design and human factors in computing",
+  "level": "Graduate",
+  "program": "Master’s in Ergonomics",
+  "id": "PT12"
+ }
+]

@@ -1,0 +1,634 @@
+[
+{
+"id": "P01",
+"kind": "Publication",
+"year": 2026,
+"title": "Editorial: Understanding Human-Media Interaction Through Design, Ergonomics, and Communication",
+"discipline": "Ergonomics & human factors",
+"domain": "Media & journalism"
+},
+{
+"id": "P02",
+"kind": "Publication",
+"year": 2026,
+"title": "Visual Storytelling and Human Interaction in Mexican Sports Journalism",
+"discipline": "Data visualization",
+"domain": "Media & journalism"
+},
+{
+"id": "P03",
+"kind": "Publication",
+"year": 2026,
+"title": "Human-Centered Information Design for Toxicological Risk Communication Among Domestic Workers",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "P04",
+"kind": "Publication",
+"year": 2026,
+"title": "Improving User Experience for Visually Impaired Individuals Based on Accessibility Guidelines and Information Design in the Use of the Control Escolar Website of the University of Guadalajara",
+"discipline": "UX research & usability",
+"domain": "Gender & inclusion"
+},
+{
+"id": "P05",
+"kind": "Publication",
+"year": 2026,
+"title": "Information Design in the Configuration of an Intimate Partner Violence Detection Tool: Gender Perspective and Social Inclusion",
+"discipline": "Information design",
+"domain": "Gender & inclusion"
+},
+{
+"id": "P06",
+"kind": "Publication",
+"year": 2026,
+"title": "Tipografía para cuerpos cansados. La accesibilidad no es una excepción",
+"discipline": "Information design",
+"domain": "Gender & inclusion"
+},
+{
+"id": "P07",
+"kind": "Publication",
+"year": 2025,
+"title": "Las imágenes creadas con Inteligencia Artificial no son fotografías",
+"discipline": "Visual & digital communication",
+"domain": "Media & journalism"
+},
+{
+"id": "P08",
+"kind": "Publication",
+"year": 2025,
+"title": "Exploración de factores de riesgo ergonómicos y ambientales para la creación de artefactos de Diseño de Información dirigidos a trabajadoras del hogar en situación de informalidad laboral como estrategia de visibilización",
+"discipline": "Ergonomics & human factors",
+"domain": "Health"
+},
+{
+"id": "P09",
+"kind": "Publication",
+"year": 2025,
+"title": "Lineamientos de diseño de información para la creación de formularios. Caso de estudio: «Expediente de vacunación contra el virus SARS-COV2»",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "P10",
+"kind": "Publication",
+"year": 2025,
+"title": "Digital Exclusion in Older Adults: Strengthening Patient Safety and Healthcare Through a Digital Application Designed for the Elderly",
+"discipline": "UX research & usability",
+"domain": "Health"
+},
+{
+"id": "P11",
+"kind": "Publication",
+"year": 2024,
+"title": "Análisis de la narrativa del videojuego Life is Strange Remastered Collection y sus representaciones con base a un enfoque de diseño de información y la personalidad del usuario según el test de las 16 personalidades del Modelo NERIS",
+"discipline": "Information design",
+"domain": "Media & journalism"
+},
+{
+"id": "P12",
+"kind": "Publication",
+"year": 2024,
+"title": "El diseño de mensajes en canales digitales para Millenials y Centennialls",
+"discipline": "Visual & digital communication",
+"domain": "Media & journalism"
+},
+{
+"id": "P13",
+"kind": "Publication",
+"year": 2023,
+"title": "Diagnóstico de la comunicación externa anual de las publicaciones en Facebook de la Universidad de las Américas Puebla",
+"discipline": "Visual & digital communication",
+"domain": "Media & journalism"
+},
+{
+"id": "P14",
+"kind": "Publication",
+"year": 2023,
+"title": "Las leyes de la Gestalt y su infralógica como herramienta de creación de figuras de visualización de información",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "P15",
+"kind": "Publication",
+"year": 2023,
+"title": "Guía de tácticas para la evaluación del diseño gráfico y de información dentro de una metodología de diseño centrado en el usuario",
+"discipline": "UX research & usability",
+"domain": "Theory & methodology"
+},
+{
+"id": "P16",
+"kind": "Publication",
+"year": 2023,
+"title": "Las figuras de visualización de información; tipología, funciones y su incidencia en la comunicación gráfica",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "P17",
+"kind": "Publication",
+"year": 2023,
+"title": "Improving Pediatric Medical Prescription to Promote First-Time Parent’s Comprehension Through an Information Design Approach",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "P18",
+"kind": "Publication",
+"year": 2022,
+"title": "Los tótems interactivos para la difusión de información a usuarios infantiles. Una nueva estrategia pedagógica ante la exposición de información",
+"discipline": "Information design",
+"domain": "Education"
+},
+{
+"id": "P19",
+"kind": "Publication",
+"year": 2022,
+"title": "The incidence of Information Anxiety in virtual education in Mexico during the SARS-CoV-2 pandemic",
+"discipline": "Ergonomics & human factors",
+"domain": "Education"
+},
+{
+"id": "P20",
+"kind": "Publication",
+"year": 2022,
+"title": "An Information Design Tool to Reduce Cognitive Load in Older Adults with Chronic Degenerative Diseases During the Anamnesis Exploration Phase in a General Medical Consultation",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "P21",
+"kind": "Publication",
+"year": 2022,
+"title": "Food packaging design that help reduce consumer-generated waste",
+"discipline": "Ergonomics & human factors",
+"domain": "Products & sustainability"
+},
+{
+"id": "P22",
+"kind": "Publication",
+"year": 2022,
+"title": "The importance of the adobe brick for a sustainable architecture in Mexico",
+"discipline": "Ergonomics & human factors",
+"domain": "Products & sustainability"
+},
+{
+"id": "P23",
+"kind": "Publication",
+"year": 2022,
+"title": "Coin game to improve the education of designers in product design",
+"discipline": "Design methods & education",
+"domain": "Education"
+},
+{
+"id": "P24",
+"kind": "Publication",
+"year": 2022,
+"title": "La ergonomía como herramienta en el desarrollo de productos de diseño de información de artículos médicos",
+"discipline": "Ergonomics & human factors",
+"domain": "Health"
+},
+{
+"id": "P25",
+"kind": "Publication",
+"year": 2021,
+"title": "El lenguaje de las representaciones visuales: una taxonomía con base a la forma y función / The language of visual representations: a taxonomy based on form and function",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "P26",
+"kind": "Publication",
+"year": 2021,
+"title": "Propuesta metodológica para la creación de infografías: un enfoque del diseño centrado en el usuario",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "P27",
+"kind": "Publication",
+"year": 2021,
+"title": "La ergonomía cognitiva como herramienta para el diseño de información",
+"discipline": "Ergonomics & human factors",
+"domain": "Theory & methodology"
+},
+{
+"id": "P28",
+"kind": "Publication",
+"year": 2021,
+"title": "Las variables visuales como herramienta para la configuración del mensaje visual de artefactos de diseño de información",
+"discipline": "Information design",
+"domain": "Theory & methodology"
+},
+{
+"id": "P29",
+"kind": "Publication",
+"year": 2021,
+"title": "El wayfinding y su incidencia en las estrategias de movilidad urbana: caso de estudio: ciclovías del centro de Puebla",
+"discipline": "Information design",
+"domain": "City, culture & society"
+},
+{
+"id": "P30",
+"kind": "Publication",
+"year": 2021,
+"title": "Analysis of the Impact on Mexican Consumers of the New Precautionary Legends in Processed Foods with Excess Nutriments",
+"discipline": "Ergonomics & human factors",
+"domain": "Health"
+},
+{
+"id": "P31",
+"kind": "Publication",
+"year": 2020,
+"title": "El diseño de la información: una aproximación al diseño centrado en el usuario, un rediseño metodológico basado en la propuesta de Frascara",
+"discipline": "Information design",
+"domain": "Theory & methodology"
+},
+{
+"id": "P32",
+"kind": "Publication",
+"year": 2020,
+"title": "Emotional Design and Human Factors Design as Tool for Understanding Efficiency in Information Design Process at Medical Documents",
+"discipline": "Ergonomics & human factors",
+"domain": "Health"
+},
+{
+"id": "P33",
+"kind": "Publication",
+"year": 2020,
+"title": "NOMOLAS: Guías de usabilidad para el desarrollo de interfaces gráficas para visualizaciones médicas",
+"discipline": "UX research & usability",
+"domain": "Health"
+},
+{
+"id": "C01",
+"kind": "Conference",
+"year": 2026,
+"title": "El diseño como mediador afectivo en la experiencia hospitalaria infantil: construcción de una narrativa visual aplicada al entorno oncológico",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "C02",
+"kind": "Conference",
+"year": 2026,
+"title": "Diseño de información para la comunicación de riesgo químico: modelo conceptual de traducción entre conocimiento experto y prácticas de limpieza doméstica",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "C03",
+"kind": "Conference",
+"year": 2026,
+"title": "Diseño de información para la comunicación de riesgo químico",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "C04",
+"kind": "Conference",
+"year": 2026,
+"title": "Visualización de datos del paisaje gráfico urbano: análisis tipográfico y visual del comercio en Calle Juárez, Centro de Monterrey” (with Fernando Rafael Mateos Menchaca)",
+"discipline": "Data visualization",
+"domain": "City, culture & society"
+},
+{
+"id": "C05",
+"kind": "Conference",
+"year": 2025,
+"title": "Entender la Realidad: La Visualización de Datos",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "C06",
+"kind": "Conference",
+"year": 2025,
+"title": "El Diseño de Información en la Configuración de una Herramienta de Detección de la Violencia en la Pareja: Perspectiva de Género e Inclusión Social",
+"discipline": "Information design",
+"domain": "Gender & inclusion"
+},
+{
+"id": "C07",
+"kind": "Conference",
+"year": 2025,
+"title": "Narrativas Visuales: El fútbol explicado a través del storytelling de datos",
+"discipline": "Data visualization",
+"domain": "Media & journalism"
+},
+{
+"id": "C08",
+"kind": "Conference",
+"year": 2025,
+"title": "Information Design in the Configuration of an Intimate Partner Violence Detection Tool: Gender Perspective and Social Inclusion",
+"discipline": "Information design",
+"domain": "Gender & inclusion"
+},
+{
+"id": "C09",
+"kind": "Conference",
+"year": 2025,
+"title": "Encuentro Nacional IDDEA 2025 (Investigación en Docencia, Diseño, Educación y Arte)",
+"discipline": "Design methods & education",
+"domain": "Education"
+},
+{
+"id": "C10",
+"kind": "Conference",
+"year": 2025,
+"title": "Validación de un libro ilustrado como herramienta de acompañamiento emocional para infancias con cáncer desde el diseño de información” (with Frida Guadalupe Álvarez Valenzuela)",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "C11",
+"kind": "Conference",
+"year": 2024,
+"title": "Del dato a la historia: proceso de creación de visualización de datos",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "C12",
+"kind": "Conference",
+"year": 2024,
+"title": "Del dato a la historia: proceso de diseño de la visualización de datos",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "C13",
+"kind": "Conference",
+"year": 2024,
+"title": "Visualización de información y su impacto en contextos sociales",
+"discipline": "Data visualization",
+"domain": "City, culture & society"
+},
+{
+"id": "C14",
+"kind": "Conference",
+"year": 2024,
+"title": "Diagnóstico de la comunicación externa anual de las publicaciones en Facebook de la Universidad de las Américas Puebla",
+"discipline": "Visual & digital communication",
+"domain": "Media & journalism"
+},
+{
+"id": "C15",
+"kind": "Conference",
+"year": 2024,
+"title": "Diseño de piezas de visualización de información: abordando la comunicación con un enfoque integrado en la relación función y forma",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "C16",
+"kind": "Conference",
+"year": 2024,
+"title": "Identificando señales: educar para erradicar la violencia de pareja” (with Adrys Fernández Díaz)",
+"discipline": "Information design",
+"domain": "Gender & inclusion"
+},
+{
+"id": "C17",
+"kind": "Conference",
+"year": 2023,
+"title": "Health Information Design: Diseño de información para documentos en el área de la salud",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "C18",
+"kind": "Conference",
+"year": 2023,
+"title": "Interacción humanidades-visualización de datos en la enseñanza del diseño",
+"discipline": "Design methods & education",
+"domain": "Education"
+},
+{
+"id": "C19",
+"kind": "Conference",
+"year": 2023,
+"title": "Hacia una definición de conceptualización: denotar su importancia dentro del proceso de creación de un diseñador gráfico",
+"discipline": "Design methods & education",
+"domain": "Theory & methodology"
+},
+{
+"id": "C20",
+"kind": "Conference",
+"year": 2023,
+"title": "Visualize to Connect: How to Create Information Visualizations that Create an Emotional Connection between Your User and the Information",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "C21",
+"kind": "Conference",
+"year": 2023,
+"title": "Improving Pediatric Medical Prescription to Promote First-Time Parent’s Comprehension through an Information Design Approach",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "C22",
+"kind": "Conference",
+"year": 2023,
+"title": "Los tótems interactivos para la difusión de información a usuarios infantiles: una nueva estrategia pedagógica ante la exposición de información",
+"discipline": "Information design",
+"domain": "Education"
+},
+{
+"id": "C23",
+"kind": "Conference",
+"year": 2023,
+"title": "Análisis iconográfico de constantes visuales en las marchas feministas del 8 de marzo en México",
+"discipline": "Visual & digital communication",
+"domain": "Gender & inclusion"
+},
+{
+"id": "C24",
+"kind": "Conference",
+"year": 2023,
+"title": "Anthropological mapping in information visualization. Case study: Iconographic record of the geek, drag and cholombiana youth cultures in Monterrey",
+"discipline": "Data visualization",
+"domain": "City, culture & society"
+},
+{
+"id": "C25",
+"kind": "Conference",
+"year": 2022,
+"title": "The incidence of Information Anxiety in virtual education in Mexico during the SARS-CoV-2 pandemic",
+"discipline": "Ergonomics & human factors",
+"domain": "Education"
+},
+{
+"id": "C26",
+"kind": "Conference",
+"year": 2022,
+"title": "An information design tool to reduce cognitive load in older adults with chronic degenerative diseases during the anamnesis exploration phase in a general medical consultation",
+"discipline": "Information design",
+"domain": "Health"
+},
+{
+"id": "C27",
+"kind": "Conference",
+"year": 2022,
+"title": "Food packaging design that help reduce consumer-generated waste",
+"discipline": "Ergonomics & human factors",
+"domain": "Products & sustainability"
+},
+{
+"id": "C28",
+"kind": "Conference",
+"year": 2022,
+"title": "The importance of the adobe brick for a sustainable architecture in Mexico",
+"discipline": "Ergonomics & human factors",
+"domain": "Products & sustainability"
+},
+{
+"id": "C29",
+"kind": "Conference",
+"year": 2022,
+"title": "Noveno Coloquio de Metodología en el Posgrado de Diseño “De los métodos y las maneras",
+"discipline": "Design methods & education",
+"domain": "Theory & methodology"
+},
+{
+"id": "C30",
+"kind": "Conference",
+"year": 2022,
+"title": "Seminario Internacional Virtual Vanguardias del Diseño 2022",
+"discipline": "Design methods & education",
+"domain": "Theory & methodology"
+},
+{
+"id": "C31",
+"kind": "Conference",
+"year": 2022,
+"title": "El diseñador de información como agente creador del bienestar social",
+"discipline": "Information design",
+"domain": "City, culture & society"
+},
+{
+"id": "C32",
+"kind": "Conference",
+"year": 2022,
+"title": "Intervención Interdisciplinaria desde la Perspectiva de Investigación de la Experiencia del Usuario en un Estacionamiento Escolar y su Dinámica Interna",
+"discipline": "UX research & usability",
+"domain": "City, culture & society"
+},
+{
+"id": "C33",
+"kind": "Conference",
+"year": 2021,
+"title": "2º Coloquio. Reflexiones en torno al Diseño y la Visualización de la Información",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "C34",
+"kind": "Conference",
+"year": 2021,
+"title": "Implementación de herramientas UXR en el desarrollo de proyectos arquitectónicos",
+"discipline": "UX research & usability",
+"domain": "City, culture & society"
+},
+{
+"id": "C35",
+"kind": "Conference",
+"year": 2021,
+"title": "Analysis of the Impact of New Precautionary Labels on Mexican Consumers of Processed Foods with Excessive Nutrients",
+"discipline": "Ergonomics & human factors",
+"domain": "Health"
+},
+{
+"id": "C36",
+"kind": "Conference",
+"year": 2021,
+"title": "Information Anxiety: Saturación por Exceso de Información Debido a la Enseñanza en Línea y el Confinamiento",
+"discipline": "Ergonomics & human factors",
+"domain": "Education"
+},
+{
+"id": "C37",
+"kind": "Conference",
+"year": 2020,
+"title": "Propuesta metodológica para la creación de infografías desde el enfoque del diseño centrado en el usuario",
+"discipline": "Data visualization",
+"domain": "Theory & methodology"
+},
+{
+"id": "C38",
+"kind": "Conference",
+"year": 2020,
+"title": "Emotional Design and Human Factors Design as Tools for Understanding Efficiency in the Information Design Process for Medical Documents",
+"discipline": "Ergonomics & human factors",
+"domain": "Health"
+},
+{
+"id": "C39",
+"kind": "Conference",
+"year": 2019,
+"title": "La Ergonomía Cognitiva como Herramienta para el Diseño de Información",
+"discipline": "Ergonomics & human factors",
+"domain": "Theory & methodology"
+},
+{
+"id": "C40",
+"kind": "Conference",
+"year": 2018,
+"title": "Diseño: Estrategia de Generación de Ideas para la Innovación",
+"discipline": "Design methods & education",
+"domain": "Theory & methodology"
+},
+{
+"id": "R1",
+"kind": "Project",
+"year": 2026,
+"title": "Applied information design research on ergonomic risks and working conditions among domestic workers, within the collaboration agreement between Universidad de Monterrey and the Secretaría de Igualdad e Inclusión del Estado de Nuevo León.",
+"discipline": "Ergonomics & human factors",
+"domain": "Health"
+},
+{
+"id": "R2",
+"kind": "Project",
+"year": 2025,
+"title": "Project N-660, “Inteligencia Artificial: Limitaciones y potencialidades en el proceso de diseño,” Universidad Autónoma Metropolitana, Unidad Azcapotzalco.",
+"discipline": "Design methods & education",
+"domain": "Theory & methodology"
+},
+{
+"id": "R3",
+"kind": "Project",
+"year": 2021,
+"title": "Project N-538, “La desinformación en la era de la información. Las redes sociales y su importancia en la realidad posmoderna,” Universidad Autónoma Metropolitana, Unidad Azcapotzalco.",
+"discipline": "Visual & digital communication",
+"domain": "Media & journalism"
+},
+{
+"id": "R4",
+"kind": "Project",
+"year": 2026,
+"title": "Intimate partner violence detection tools with a gender and inclusion perspective, in collaboration with Adrys Fernández Díaz, Universidad de Monterrey.",
+"discipline": "Information design",
+"domain": "Gender & inclusion"
+},
+{
+"id": "R5",
+"kind": "Project",
+"year": 2026,
+"title": "Healthcare information, medical documents, and digital tools for older adults.",
+"discipline": "UX research & usability",
+"domain": "Health"
+},
+{
+"id": "R6",
+"kind": "Project",
+"year": 2026,
+"title": "Visual storytelling and human interaction in Mexican sports journalism, with Arturo Castillo-Soto.",
+"discipline": "Data visualization",
+"domain": "Media & journalism"
+}
+]

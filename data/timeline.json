@@ -1,0 +1,164 @@
+[
+ {
+  "id": "E1",
+  "track": "Experience",
+  "label": "Full-time Professor and Researcher · UDEM",
+  "org": "Universidad de Monterrey · School of Art and Design",
+  "start": 2021.83,
+  "end": 2026.8,
+  "when": "Nov 2021 – Present"
+ },
+ {
+  "id": "E2",
+  "track": "Experience",
+  "label": "Freelance Information Designer",
+  "org": "MINEFF, Information Design Agency",
+  "start": 2019.83,
+  "end": 2023.99,
+  "when": "Nov 2019 – 2023"
+ },
+ {
+  "id": "E3",
+  "track": "Experience",
+  "label": "Editorial Designer",
+  "org": "Studies in Gothic Fiction, Cardiff University Press",
+  "start": 2016.58,
+  "end": 2023.99,
+  "when": "Aug 2016 – 2023"
+ },
+ {
+  "id": "R1",
+  "track": "Research projects",
+  "label": "Technical Lead · Domestic workers research",
+  "org": "UDEM × Secretaría de Igualdad e Inclusión NL",
+  "start": 2026.08,
+  "end": 2027.08,
+  "when": "Feb 2026 – Feb 2027"
+ },
+ {
+  "id": "R2",
+  "track": "Research projects",
+  "label": "Researcher · Project N-660 (AI in design)",
+  "org": "UAM Azcapotzalco",
+  "start": 2025.42,
+  "end": 2027.42,
+  "when": "Jun 2025 – Jun 2027"
+ },
+ {
+  "id": "R3",
+  "track": "Research projects",
+  "label": "Invited Researcher · Project N-538 (disinformation)",
+  "org": "UAM Azcapotzalco",
+  "start": 2021.58,
+  "end": 2023.5,
+  "when": "Aug 2021 – Jul 2023"
+ },
+ {
+  "id": "D1",
+  "track": "Education",
+  "label": "PhD · Information Design and Visualization",
+  "org": "UAM Azcapotzalco",
+  "start": 2017,
+  "end": 2020.99,
+  "when": "2017–2020"
+ },
+ {
+  "id": "D2",
+  "track": "Education",
+  "label": "Specialization · UX Research and Design",
+  "org": "University of Michigan",
+  "start": 2020,
+  "end": 2020.99,
+  "when": "2020"
+ },
+ {
+  "id": "D3",
+  "track": "Education",
+  "label": "Master’s · Information Design",
+  "org": "Universidad de las Américas Puebla",
+  "start": 2013,
+  "end": 2015.99,
+  "when": "2013–2015"
+ },
+ {
+  "id": "D4",
+  "track": "Education",
+  "label": "Specialization · Editorial Production",
+  "org": "Universidad de las Américas Puebla",
+  "start": 2013,
+  "end": 2015.99,
+  "when": "2013–2015"
+ },
+ {
+  "id": "D5",
+  "track": "Education",
+  "label": "Bachelor’s · Advertising Design and Production",
+  "org": "UPAEP",
+  "start": 2006,
+  "end": 2011.99,
+  "when": "2006–2011"
+ },
+ {
+  "id": "E4",
+  "track": "Experience",
+  "label": "Co-founder · Siete Trece design & writing",
+  "org": "Puebla, Mexico · information design, editorial design, corporate identity, content writing",
+  "start": 2014.33,
+  "end": 2018.83,
+  "when": "May 2014 – Oct 2018"
+ },
+ {
+  "id": "E5",
+  "track": "Experience",
+  "label": "Copywriter · La Familia Advertising",
+  "org": "La Familia Advertising",
+  "start": 2011.67,
+  "end": 2015.0,
+  "when": "Sep 2011 – 2014"
+ },
+ {
+  "id": "E6",
+  "track": "Experience",
+  "label": "Copywriter · Señuelo Publicidad",
+  "org": "Señuelo Publicidad",
+  "start": 2011.5,
+  "end": 2011.75,
+  "when": "Jul 2011 – Sep 2011"
+ },
+ {
+  "id": "E7",
+  "track": "Experience",
+  "label": "Traffic Director · Señuelo Publicidad",
+  "org": "Señuelo Publicidad",
+  "start": 2010.92,
+  "end": 2011.5,
+  "when": "Dec 2010 – Jul 2011"
+ },
+ {
+  "id": "T1",
+  "track": "Teaching",
+  "label": "Professor & Researcher · UDEM",
+  "org": "Universidad de Monterrey · undergraduate and graduate",
+  "start": 2021.83,
+  "end": 2026.8,
+  "when": "Nov 2021 – Present"
+ },
+ {
+  "id": "T2",
+  "track": "Teaching",
+  "label": "Part-time Professor · UDLAP",
+  "org": "Universidad de las Américas Puebla · infographics, data visualization, visual message",
+  "start": 2018.58,
+  "end": 2021.99,
+  "when": "Aug 2018 – Dec 2021"
+ },
+ {
+  "id": "T3",
+  "track": "Teaching",
+  "label": "Visiting Professor · UdeG",
+  "org": "Universidad de Guadalajara · Master’s in Ergonomics (from Jan 2018) and Master’s in Information Design and Digital Communication (from Sep 2020); last listed course Fall 2021",
+  "start": 2018.0,
+  "end": 2021.99,
+  "when": "From Jan 2018"
+ }
+]

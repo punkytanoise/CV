@@ -1,0 +1,56 @@
+[
+{
+"id": "R1",
+"when": "Feb 2026 – Feb 2027",
+"role": "Technical Lead",
+"project": "Applied information design research on ergonomic risks and working conditions among domestic workers, within the collaboration agreement between Universidad de Monterrey and the Secretaría de Igualdad e Inclusión del Estado de Nuevo León.",
+"focus": "Methodological design, fieldwork, and development and validation of visual communication resources.",
+"status": "Active",
+"related": "P03,P08,C02,C03"
+},
+{
+"id": "R2",
+"when": "Jun 2025 – Jun 2027",
+"role": "Researcher",
+"project": "Project N-660, “Inteligencia Artificial: Limitaciones y potencialidades en el proceso de diseño,” Universidad Autónoma Metropolitana, Unidad Azcapotzalco.",
+"focus": "Analysis of the methodological and creative implications of artificial intelligence in design.",
+"status": "Active",
+"related": "P07"
+},
+{
+"id": "R3",
+"when": "Aug 2021 – Jul 2023",
+"role": "Invited Researcher",
+"project": "Project N-538, “La desinformación en la era de la información. Las redes sociales y su importancia en la realidad posmoderna,” Universidad Autónoma Metropolitana, Unidad Azcapotzalco.",
+"focus": "Protocol development, theoretical and methodological research, and analysis of graphic communication.",
+"status": "Completed",
+"related": "P12,P13,C14"
+},
+{
+"id": "R4",
+"when": "Ongoing",
+"role": "Research and Design",
+"project": "Intimate partner violence detection tools with a gender and inclusion perspective, in collaboration with Adrys Fernández Díaz, Universidad de Monterrey.",
+"focus": "User-centered development and evaluation of visual information materials.",
+"status": "Ongoing",
+"related": "P05,C06,C08,C16"
+},
+{
+"id": "R5",
+"when": "Ongoing",
+"role": "Research and Design",
+"project": "Healthcare information, medical documents, and digital tools for older adults.",
+"focus": "Focus on comprehension, cognitive load, usability, and patient–clinician communication.",
+"status": "Ongoing",
+"related": "P10,P20,P33,P24,P32,P17,P09,C26,C38,C17"
+},
+{
+"id": "R6",
+"when": "Ongoing",
+"role": "Research and Co-authorship",
+"project": "Visual storytelling and human interaction in Mexican sports journalism, with Arturo Castillo-Soto.",
+"focus": "Analysis of data-driven narratives and visual communication in sports media.",
+"status": "Ongoing",
+"related": "P02,C07"
+}
+]
